@@ -4,7 +4,7 @@ For issiosolutions.
 1. Git clone
 2. Put the folder into xampp/htdocs/
 3. Import database with name profile
-4. Run localhost/profile/
+4. Run localhost/law-php-social/
 5. User Email: yakenichi1026@gmail.com
 6. Password: 12345
 7. You can create your own with sign up.
